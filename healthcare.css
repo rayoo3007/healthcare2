@@ -1,0 +1,109 @@
+.main{
+    display: flex;
+    position:sticky ;
+    width:1500px;
+    height:80px;
+    background-color:ghostwhite ;
+
+}
+.logo{
+    position:absolute;
+    left:20px;
+    top:20px;
+    display:flex;
+    justify-content: space-around;
+}
+.option{
+    position:absolute;
+    padding: 15px;
+    left:500px;
+    height:50px;
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.option1{
+    
+    padding:5px;
+    justify-items: baseline;
+    align-content:space-between;
+
+}
+.option2{
+ 
+    padding:5px;
+    justify-items: baseline;
+    align-content:space-between;
+
+}
+.option3{
+
+    padding:5px;
+    justify-items: baseline;
+    align-content:space-between;
+
+}
+.option4{
+   
+    padding:5px;
+    justify-items: baseline;
+    align-content:space-between;
+
+}
+.login{
+    position:absolute;
+    right:20px;
+    top:20px;
+ 
+
+}
+i{
+    margin-top:10px
+
+}
+h4{
+    font-size: large;
+    font-family:serif;
+}
+/*main content*/
+.img{
+    padding:20px;
+    height:700px;
+    width:1450px;
+    margin:30px;
+    background-image: url("https://plus.unsplash.com/premium_photo-1701697099434-7243b37dcda6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGlnaHQlMjBibHVlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D");
+    background-size: cover;
+}
+h1{
+    font-family:serif;
+    margin:px;
+
+}
+.font1{
+    font-size:75px;
+    color: rgb(55, 43, 135);
+    font-weight: 700;
+    padding: 10px;
+    margin:10px;
+    margin-left: 30px;
+}
+.button{
+    border-radius:1.5rem;
+    margin:20px;
+    margin-left: 30px;
+    border-color: rgb(55, 43, 135);
+    opacity: 0.90;
+
+}
+.photo{
+    position: absolute;
+    top:90px;
+    bottom: 0;;
+    left:720px;
+    width:90px;
+    height:90px;
+}
+
+
+
+
